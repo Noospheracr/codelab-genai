@@ -1,8 +1,8 @@
 # GOOGLE GO CODELAB
 
 ## Introduction
-Goal: Automatically Deploy Generative AI Go Web Applications from Version Control to Cloud Run
-Apps Involved: Google Go, Google Cloud Shell, Google Cloud Run and GitHub 
+- Goal: Automatically Deploy Generative AI Go Web Applications from Version Control to Cloud Run.
+- Apps Involved: Google Go, Google Cloud Shell, Google Cloud Run, Vertex AI and GitHub 
 
 ## Setup Instructions
 1. Follow the setup guide in https://codelabs.developers.google.com/codelabs/deploy-from-github.
